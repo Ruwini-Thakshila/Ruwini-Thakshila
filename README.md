@@ -1,4 +1,8 @@
-### Hi there 👋
+- 👋 Hi I am Ruwini Thakshila Weerasinghe 
+- 🔭 I’m currently working as a trainee Software Engineer
+- 🌱 My tech stack includes Java, MySQL, PostgreSQL, JavaScript, Hibernate ORM, NodeJS, ...
+- 📫 You can reach me at ruwinithakshila2017@gmail.com
+
 
 <!--
 **Ruwini-Thakshila/Ruwini-Thakshila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
