@@ -9,7 +9,7 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/ruwini-thakshila-5532b7147"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="se-image" height="40px" width="40px" /> </a>
+  <a href="https://www.linkedin.com/in/ruwini-thakshila-5532b7147"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="se-image" height="25px" width="25px" /> </a>
 
 </p>
 
