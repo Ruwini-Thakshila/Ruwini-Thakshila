@@ -7,8 +7,8 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/ruwini-thakshila-5532b7147"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="linkedin" height="25px" width="25px" /> </a> 
-  <a href="https://www.linkedin.com/in/ruwini-thakshila-5532b7147"><img src="https://i.pinimg.com/originals/99/65/5e/99655e9fe24eb0a7ea38de683cedb735.jpg" alt="twitter" height="25px" width="25px" /> </a>
+  <a href="https://www.linkedin.com/in/ruwini-thakshila-5532b7147"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="linkedin" height="28px" width="28px" /> </a> 
+  <a href="https://www.linkedin.com/in/ruwini-thakshila-5532b7147"><img src="https://i.pinimg.com/originals/99/65/5e/99655e9fe24eb0a7ea38de683cedb735.jpg" alt="twitter" height="28px" width="28px" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
